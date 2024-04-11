@@ -1,0 +1,2 @@
+# Histogram Equalization GrayScale Images
+ Histogram equalization is a powerful technique used to enhance the contrast of images by adjusting the intensity distribution. In grayscale images, each pixel is represented by a single value denoting its intensity, typically ranging from 0 to 255. This value corresponds to the brightness of the pixel, with 0 representing black and 255 representing white.
